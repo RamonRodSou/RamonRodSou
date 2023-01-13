@@ -1,4 +1,9 @@
-## Olá pessoal, sou Ramon Rodrigues estudante de programação!
+## Olá pessoal, sou Ramon Rodrigues!
+Estou em busca da "tal" transição de carreira. Atualmente trabalho como eletricista, e comecei na programação em outubro de 2022 fazendo um curso de lógica de programação com a tecnologia JAVA. Em novembro do mesmo ano fui agraciado com o Oracle One Next Education, e o privilégio de está estudando programação com a Alura.
+
+Tenho estudando bastante HTML5, CSS3 e JavaScritp, e me dedicado a aprender cada vez mais, fazendo meus próprios projetos e desafios.
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
