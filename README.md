@@ -1,28 +1,16 @@
-## Olá pessoal, sou Ramon Rodrigues!
-Hoje, gostaria de compartilhar com todos vocês a minha jornada emocionante em busca da "tal" transição de carreira.
+## Olá, me chamo Ramon Rodrigues e seja bem-vindo ao meu portfólio.
 
-Minha trajetória até aqui
-Atualmente, sou eletricista de profissão, mas em outubro de 2022, decidi mergulhar em um novo mundo ao iniciar um curso de lógica de programação com a tecnologia JAVA. Foi um passo ousado, mas desde então, tenho vivido uma incrível jornada de aprendizado e crescimento.
+Vou compartilhar um pouco sobre mim:
 
-Em novembro do mesmo ano, fui agraciado com uma oportunidade única: o programa One Next Education, em parceria com a Oracle e a Alura. Durante esse programa, tive a oportunidade de expandir meus horizontes no mundo da tecnologia. Fui capaz de mergulhar profundamente em áreas como Front-End e Data Science, e o mais importante, conhecer pessoas incríveis e formar novas amizades.
+Sou um apaixonado desenvolvedor Frontend em busca de me tornar um desenvolvedor Full-Stack, dedicado a criar experiências digitais memoráveis. Minha jornada começou com a lógica de programação em JAVA e avançou para o programa ONE na Alura, onde aprimorei habilidades fundamentais em HTML5, CSS3, JavaScript, Git, React, React Native, Responsividade, Figma, SEO e Metodologias Ágeis como Scrum e Kanban.
 
-Minhas habilidades e conhecimentos
-Nesse processo, adquiri habilidades essenciais, incluindo:
+Dentro desse ambiente de aprendizado contínuo, adquiri conhecimento em MySQL, NoSQL, SOLID, Redux, Node, Express e TypeScript. Atualmente, estou imerso em projetos que envolvem React + TypeScript, React Native + TypeScript e faço uso do Banco de Dados na Nuvem Firebase para armazenamento de dados, ampliando ainda mais minha expertise.
 
-Git/GitHub: Aprendi a importância da colaboração e do controle de versão em projetos de software.
-HTML, CSS, JavaScript: Fundamentos cruciais para qualquer desenvolvedor web.
-React: Uma biblioteca JavaScript que me permitiu criar interfaces de usuário incríveis.
-Axios: Conhecimento valioso para fazer solicitações HTTP de maneira eficiente.
-Conhecimento básico em JAVA: Minha jornada começou com essa linguagem e continua a ser uma parte importante do meu aprendizado.
-MySQL, Oracle: Estou atualmente estudando bancos de dados, incluindo MySQL e Oracle, para aprimorar meu conhecimento em gerenciamento de dados.
-Python: Estou me aventurando na análise de dados com Python, explorando seu vasto potencial.
-Graduação em Análise e Desenvolvimento de Sistemas: Estou comprometido em expandir meu conhecimento acadêmico, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
-Conhecimentos adquiridos com a Alura
-A Alura desempenhou um papel fundamental na minha jornada de aprendizado. Graças a eles, fui capaz de aprimorar minhas habilidades técnicas, explorar novas tecnologias e me conectar com uma comunidade apaixonada por tecnologia.
+Paralelamente, sou estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR, onde abarco uma vasta gama de conhecimento em tecnologia, desde Engenharia de Software, Algoritmos e Lógica de Programação até Redes de Computadores e Estrutura de Dados.
 
-Em resumo, estou em uma emocionante jornada de transição de carreira, buscando me tornar um desenvolvedor de software completo e experiente. Estou ansioso para as oportunidades que o futuro reserva e para continuar aprendendo e crescendo ao lado de pessoas incríveis como vocês.
+Com experiência prática em projetos como freelancer, desenvolvi Apps Mobile utilizando React Native + Firebase, bem como sites com HTML, CSS, JavaScript, JQuery e React. Meu compromisso com o aprimoramento técnico é contínuo e estou preparado para enfrentar desafios como Desenvolvedor, combinando uma base técnica sólida com determinação e criatividade.
 
-Obrigado por me ouvir hoje! Estou aberto a perguntas e discussões sobre minha jornada e experiências até o momento. Vamos juntos explorar o mundo da tecnologia! 👨‍💻🌟
+Obrigado por me ouvir hoje! Estou aberto a perguntas e discussões sobre minha jornada e experiências até o momento. Vamos juntos explorar o mundo da tecnologia!
 ##
 
 <div style="display: inline_block"><br>
