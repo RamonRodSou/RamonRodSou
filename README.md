@@ -1,16 +1,13 @@
 ## Olá, me chamo Ramon Rodrigues e seja bem-vindo ao meu portfólio.
-
-Vou compartilhar um pouco sobre mim:
-
-Sou um apaixonado desenvolvedor Frontend em busca de me tornar um desenvolvedor Full-Stack, dedicado a criar experiências digitais memoráveis. Minha jornada começou com a lógica de programação em JAVA e avançou para o programa ONE na Alura, onde aprimorei habilidades fundamentais em HTML5, CSS3, JavaScript, Git, React, React Native, Responsividade, Figma, SEO e Metodologias Ágeis como Scrum e Kanban.
-
-Dentro desse ambiente de aprendizado contínuo, adquiri conhecimento em MySQL, NoSQL, SOLID, Redux, Node, Express e TypeScript. Atualmente, estou imerso em projetos que envolvem React + TypeScript, React Native + TypeScript e faço uso do Banco de Dados na Nuvem Firebase para armazenamento de dados, ampliando ainda mais minha expertise.
-
-Paralelamente, sou estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR, onde abarco uma vasta gama de conhecimento em tecnologia, desde Engenharia de Software, Algoritmos e Lógica de Programação até Redes de Computadores e Estrutura de Dados.
-
-Com experiência prática em projetos como freelancer, desenvolvi Apps Mobile utilizando React Native + Firebase, bem como sites com HTML, CSS, JavaScript, JQuery e React. Meu compromisso com o aprimoramento técnico é contínuo e estou preparado para enfrentar desafios como Desenvolvedor, combinando uma base técnica sólida com determinação e criatividade.
-
-Obrigado por me ouvir hoje! Estou aberto a perguntas e discussões sobre minha jornada e experiências até o momento. Vamos juntos explorar o mundo da tecnologia!
+Desenvolvedor Frontend, apaixonado por criar experiências digitais memoráveis. Habilidades em HTML5, CSS3,
+ JavaScript, TypeScript, React, React Native, Redux, Next Js, MySQL, NoSQL, Firebase, SOLID, testes unitários, testes
+ de integração, testes end-to-end, Test-Driven Development, usando Jest, Vitest, Cypress, Git, responsividade, Figma,
+ SEOemetodologias ágeis como Scrum e Kanban. Atualmente, estou aprimorando meus conhecimentos em Java.
+ Paralelamente, sou estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR. A sede por conhecimento é
+ constante, e ainda tenho muito a aprender nessa jornada acadêmica.
+ Comexperiência prática em projetos como freelancer, já desenvolvi apps mobile utilizando React Native + Firebase, bem
+ como sites com HTML, CSS, JavaScript, JQuery e React, além de sites usando WordPress. Meu compromisso com o
+ aprimoramento técnico é contínuo. Estou preparado para enfrentar desafios como desenvolvedor, combinando
 ##
 
 <div style="display: inline_block"><br>
