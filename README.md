@@ -1,13 +1,14 @@
 ## Olá, me chamo Ramon Rodrigues e seja bem-vindo ao meu portfólio.
-Desenvolvedor Frontend, apaixonado por criar experiências digitais memoráveis. Habilidades em HTML5, CSS3,
- JavaScript, TypeScript, React, React Native, Redux, Next Js, MySQL, NoSQL, Firebase, SOLID, testes unitários, testes
- de integração, testes end-to-end, Test-Driven Development, usando Jest, Vitest, Cypress, Git, responsividade, Figma,
- SEOemetodologias ágeis como Scrum e Kanban. Atualmente, estou aprimorando meus conhecimentos em Java.
- Paralelamente, sou estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR. A sede por conhecimento é
- constante, e ainda tenho muito a aprender nessa jornada acadêmica.
- Comexperiência prática em projetos como freelancer, já desenvolvi apps mobile utilizando React Native + Firebase, bem
- como sites com HTML, CSS, JavaScript, JQuery e React, além de sites usando WordPress. Meu compromisso com o
- aprimoramento técnico é contínuo. Estou preparado para enfrentar desafios como desenvolvedor, combinando
+Desenvolvedor FullStack, apaixonado por criar experiências digitais memoráveis. Habilidades em HTML5, CSS3,
+ JavaScript, TypeScript, React, React Native, Redux, Next Js, NodeJs, Express, MySQL, MongoDB, Firebase, SOLID,
+ Testes automatizados ( Jest, Vitest, React-testing-library, Cypress), Git, responsividade, Figma, SEO e metodologias
+ ágeis como Scrum e Kanban. Atualmente, estou aprimorando meus conhecimentos em Java.
+ Estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR, tenho uma sede constante por conhecimento e
+ ainda muito a aprender nessa jornada acadêmica. Com experiência prática em projetos como freelancer, desenvolvi apps
+ mobile utilizando React Native + Firebase, além de sites com JavaScript, JQuery e React, e plataformas em WordPress.
+ Também tenho experiência no desenvolvimento de APIs utilizando NodeJs e Express.
+ Comprometido com o aprimoramento técnico contínuo, estou preparado para enfrentar desafios como desenvolvedor,
+ combinando uma base técnica sólida com determinação e criatividade. Ansioso para contribuir em projetos extraordinários.
 ##
 
 <div style="display: inline_block"><br>
