@@ -78,10 +78,6 @@ Estou sempre pronto para enfrentar novos desafios, buscando inovação e soluç�
 
 </div>
 
-## Git Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRodSou&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 ## Contribuições
 <div style="display: flex; flex-wrap: wrap; gap: .2rem; justify-content: flex-start; align-items: center;">
 <div style="width: 48%;">
