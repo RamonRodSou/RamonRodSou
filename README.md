@@ -78,67 +78,39 @@ agregar valor constante aos projetos.
 
 ## Contribuições
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: space-between;">
-
-  <div style="width: 48%;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.5rem; justify-content: space-between;">
+     <a href="https://github.com/RamonRodSou/GestorChurch">
+     <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=GestorChurch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+    </a>
     <a href="https://github.com/RamonRodSou/OnlyCifra">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=OnlyCifra&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+     <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=OnlyCifra&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/Cardapio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Cardapio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Cardapio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/MyDebtsWeb">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=MyDebtsWeb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=MyDebtsWeb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/Agendamento">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Agendamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Agendamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/InventoryManager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=InventoryManager&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=InventoryManager&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/RodSouTec">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=RodSouTec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=RodSouTec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/JogoAlvo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=JogoAlvo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=JogoAlvo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/Countdown">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Countdown&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Countdown&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/Calculator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Calculator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Calculator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
-  <div style="width: 48%;">
     <a href="https://github.com/RamonRodSou/kidflix">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=kidflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=kidflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
-  </div>
-
 </div>
 
