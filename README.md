@@ -2,17 +2,15 @@
 # Olá, me chamo Ramon Rodrigues e seja bem-vindo ao meu Repositório!
 
 ## Sobre mim
-Com mais de um ano de experiência como freelancer, sou apaixonado por criar soluções tecnológicas que proporcionem experiências digitais memoráveis e eficazes. Tenho experiência em uma ampla gama de tecnologias, incluindo:
+Desenvolvedor FullStack apaixonado por tecnologia, com vasta experiência na criação de soluções robustas e eficientes, 
+desde o design da interface até a lógica de negócios e persistência de dados. Minha expertise abrange o desenvolvimento de 
+APIs RESTful com Java (Spring Boot, Quarkus) e Node.js, além da construção de interfaces intuitivas e responsivas com 
+React, React Native e Angular. 
 
-Frontend: HTML5, CSS3, JavaScript, TypeScript, React, React Native, Context API, Redux, React Router Dom, Next.js, Styled-Components, Tailwind, Material-UI, Bootstrap.
-Backend: Node.js, Express, MySQL, PostgreSQL, MongoDB, Firebase.
-Testes e boas práticas: SOLID, Jest, Vitest, React Testing Library, Cypress.
-Outros: Git, Python, design responsivo, Figma, SEO, metodologias ágeis (Scrum e Kanban).
-Atualmente, estou me dedicando ao estudo de Java para expandir meus conhecimentos e aplicá-los em projetos futuros. Como estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-
-Durante minha trajetória, desenvolvi aplicativos mobile com React Native e Firebase, criei sites usando JavaScript, jQuery e React, e trabalhei em plataformas WordPress. Além disso, tenho experiência no desenvolvimento de APIs com Node.js e Express.
-
-Estou sempre pronto para enfrentar novos desafios, buscando inovação e soluções criativas que fazem a diferença. O aprendizado contínuo e a busca por aprimoramento me mantêm motivado a colaborar em projetos impactantes.
+Sou movido por desafios, com um olhar atento para código limpo, padrões de projeto (SOLID, POO) e arquiteturas 
+escaláveis. Tenho um perfil proativo, analítico e de fácil adaptação, valorizando a colaboração em equipe em ambientes 
+ágeis. Minha dedicação ao aprendizado contínuo e a busca por inovação me permitem entregar soluções de alto impacto e 
+agregar valor constante aos projetos. 
 </br></br>
 
 
