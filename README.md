@@ -78,17 +78,17 @@ agregar valor constante aos projetos.
 
 ## Contribuições
 <div style="display: flex; flex-wrap: wrap; gap: .2rem; justify-content: flex-start; align-items: center;">
-<div style="width: 48%;">
+<div style="width: 35%;">
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=GestorChurch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/GestorChurch)
 
 </span>
-<span style="width:48%">
+<span style="width:35%">
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=OnlyCifra&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/OnlyCifra)
 
 </span>
-<span style="width:48%">
+<span style="width:35%">
 
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Cardapio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Cardapio)
