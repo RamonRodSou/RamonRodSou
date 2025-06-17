@@ -77,37 +77,68 @@ agregar valor constante aos projetos.
 </div>
 
 ## Contribuições
-<div style="display: flex; flex-wrap: no; gap: .2rem; justify-content: center; align-items: center; width: 100%">Add commentMore actions
-  <span style="width:30% display: flex;">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=GestorChurch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/GestorChurch)
-  </span>
-  <span style="width:30% display: flex;">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=OnlyCifra&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/OnlyCifra)
-  </span>
-  <span style="width:30% display: flex;">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Cardapio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Cardapio)
-  </span>
-  <span style="width:30% display: flex;">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=MyDebtsWeb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/MyDebtsWeb)
-  </span>
-  <span style="width:30% display: flex;">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Agendamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Agendamento)
-  </span>
-  <span style="width:30%">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=InventoryManager&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/InventoryManager)
-  </span>
-  <span style="width:30%">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=RodSouTec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/RodSouTec)
-  </span>
-  <span style="width:30%">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=JogoAlvo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/JogoAlvo)
-  </span>
-  <span style="width:30%">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Countdown&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Countdown)
-  </span>
-  <span style="width:30%">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Calculator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Calculator)
-  </span>
-  <span style="width:30%">
-    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=kidflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/kidflix)
-  </span>
+<div style="display: flex; flex-wrap: wrap; gap: .2rem; justify-content: flex-start; align-items: center;">
+<div style="width: 35%;">
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=GestorChurch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/GestorChurch)
+
+</span>
+<span style="width:35%">
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=OnlyCifra&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/OnlyCifra)
+
+</span>
+<span style="width:35%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Cardapio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Cardapio)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=MyDebtsWeb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/MyDebtsWeb)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Agendamento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Agendamento)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=InventoryManager&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/InventoryManager)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=RodSouTec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/RodSouTec)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=JogoAlvo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/JogoAlvo)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Countdown&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Countdown)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=Calculator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/Calculator)
+
+</span>
+<span style="width:48%">
+
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=kidflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/kidflix)
+</span>
+</div>
