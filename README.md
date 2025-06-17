@@ -77,7 +77,7 @@ agregar valor constante aos projetos.
 </div>
 
 ## Contribuições
-<div style="display: flex; flex-wrap: no; gap: .2rem; justify-content: center; align-items: center; width: 100%">
+<div style="display: flex; flex-wrap: no; gap: .2rem; justify-content: center; align-items: center; width: 100%">Add commentMore actions
   <span style="width:30% display: flex;">
     [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=GestorChurch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/GestorChurch)
   </span>
@@ -111,4 +111,3 @@ agregar valor constante aos projetos.
   <span style="width:30%">
     [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=kidflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RamonRodSou/kidflix)
   </span>
-</div>
