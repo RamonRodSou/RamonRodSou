@@ -79,6 +79,12 @@ agregar valor constante aos projetos.
 ## Contribuições
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.5rem; justify-content: space-between;">
+      <a href="https://github.com/RamonRodSou/automacao_whatsapp">
+       <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=automacao_whatsapp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      </a>
+      <a href="https://github.com/RamonRodSou/JavaServlet-Mapa">
+       <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=JavaServlet-Mapa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      </a>
      <a href="https://github.com/RamonRodSou/GestorChurch">
      <img width='320' src="https://github-readme-stats.vercel.app/api/pin/?username=RamonRodSou&repo=GestorChurch&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
     </a>
